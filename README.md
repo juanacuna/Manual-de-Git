@@ -18,7 +18,6 @@ Comandos basicos:
 - git clone ___ _clona un repositorio remoto en ____ a tu carpeta local.
 
 
-
 ## manual de terminal
 
 - cd carpeta: entre en la carpeta 
@@ -30,4 +29,3 @@ Comandos basicos:
 - touch archivo: crea un archivo
 - ls: lista los elementos dentro de la carpeta actual
 - ls -la: lista los elemntos dentro de la carpeta actual de manera detallada con la opcion a, lista los elementos ocultos
-- 
